@@ -1,0 +1,6 @@
+false~false~false~false~false~Red Roof~1827 Boulder Rd~Big red roof~0.0~146~25~50.75
+false~false~false~false~false~Best Western~5678 Neptune Ave~Blue roof with BW sign~3.25~698~125~79.99
+false~false~false~false~false~Super Holiday 3~3 jump~r r2 ~2.0~2~2~3.0
+false~false~false~false~false~te~asdf~asdf~2.0~2~2~2.0
+4~3~2~1~Dodgers Den~2345 Kentucky Blvd~Blue and orange house~0.0~6~1~27.0
+4~2~2~1~Lake View~2956 Oceanside Rd~Red and tan house~2.0~3~0~44.45
